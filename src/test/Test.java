@@ -16,7 +16,7 @@ public class Test {
 		Controller controller = new Controller(gameBody,gamePanel);
 
 		//´´½¨´°Ìå
-		JFrame frame = new JFrame("2048");
+		JFrame frame = new JFrame("Game2048");
 		frame.setSize(409, 438);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
